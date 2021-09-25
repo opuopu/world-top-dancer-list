@@ -1,0 +1,32 @@
+.image{
+    height: 200px;
+    width: 200px;
+   margin-top: 10px;
+border-radius: 50%;
+    
+}
+
+.cards{
+    background-color: rgba(128, 128, 128, 0.349);
+    margin-top: 20px
+    
+}
+.parent{
+    width: 100%;
+}
+.details{
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.income{
+    font-weight: 700;
+}
+button{
+    background-color: #FE6887;
+    border: #FE6887;
+    color: white;
+padding: 8px 16px;
+font-weight: 600;
+margin-top: 5px;
+}

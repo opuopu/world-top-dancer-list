@@ -1,0 +1,41 @@
+[
+
+
+
+    {
+
+        "name":"Michael Jackson",
+        "key": "1",
+         "birthDate": "1 aug 1990",
+         "yearlyIncome": "40000",
+         "rank": "1",
+         "gender": "male",
+         "height": "5.7 inc",
+         "img": "https://i1.wp.com/bechuzi.com/wp-content/uploads/2020/10/Michael_Jackson_in_1988.jpg?w=283&ssl=1"
+    },
+
+    {
+
+        "name":"Shakira",
+        "key": "2",
+         "birthDate": "1 jun 1999",
+         "yearlyIncome": "30000",
+         "rank": "2",
+         "gender": "female",
+         "height": "5.3 inc",
+         "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F08%2F31%2Fshakira.jpg"
+    },
+    
+    {
+
+        "name":"Allu arjun",
+        "key": "3",
+         "birthDate": "1 sep 1995",
+         "yearlyIncome": "20000",
+         "rank": "3",
+         "gender": "male",
+         "height": "5.8 inc",
+         "img": "https://i2.wp.com/bechuzi.com/wp-content/uploads/2020/09/Allu-Arjun.jpg?resize=298%2C300&ssl=1"
+    }
+
+]
