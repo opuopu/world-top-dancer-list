@@ -18,7 +18,7 @@ total = parseFloat(total) + parseFloat( income.yearlyIncome)
             <h3 className ="text-center total">total-income: <span className ="count">${total}</span> </h3>
             <ul>
             {
-                cart.map(dancer => <li key = {dancer.key}>{dancer.name}</li>)
+                cart.map(dancer => <li key = {dancer.key} className ="details-li">{dancer.name}</li>)
             }
             </ul>
             <button  className ="text-center mx-auto d-block"> <i className="fas fa-user-check"></i> Hire them</button>

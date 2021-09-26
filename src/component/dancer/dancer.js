@@ -7,7 +7,7 @@ const Dancer = (props) => {
     return (
         // card
         <div className ="col-md-4 ">
-         <div className="col-md-12">
+         <div className="col-md-12 shadow">
     <div className="card cards h-80 border ">
       <img src={img} className="card-img-top image mx-auto" alt="..."/>
       <div className="card-body text-center">
