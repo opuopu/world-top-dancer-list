@@ -2,10 +2,12 @@ import React from 'react';
 import './dancer.css'
 
 const Dancer = (props) => {
+    // destructing
     const{img,height,gender,yearlyIncome,birthDate,name,rank} = props.dancer || {}
     return (
+        // card
         <div className ="col-md-4 ">
-         <div className="col-md-10  ">
+         <div className="col-md-12">
     <div className="card cards h-80 border ">
       <img src={img} className="card-img-top image mx-auto" alt="..."/>
       <div className="card-body text-center">

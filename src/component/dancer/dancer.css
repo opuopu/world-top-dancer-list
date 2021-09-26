@@ -5,9 +5,14 @@
 border-radius: 50%;
     
 }
+h5{
+    color: rgb(68, 143, 187);
+    font-weight: 700;
+    font-size: 20px;
+}
 
 .cards{
-    background-color: rgba(128, 128, 128, 0.349);
+    background-color: rgb(245, 245, 245);
     margin-top: 20px
     
 }
@@ -17,11 +22,14 @@ border-radius: 50%;
 .details{
     margin-bottom: 5px;
     display: flex;
+    font-weight: 600;
     justify-content: space-around;
 }
 .income{
     font-weight: 700;
+    color:rgb(0, 152, 240) ;
 }
+/* button */
 button{
     background-color: #FE6887;
     border: #FE6887;

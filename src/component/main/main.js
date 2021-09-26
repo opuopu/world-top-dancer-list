@@ -12,12 +12,14 @@ const Main = () => {
         const newcart = [...cart,dancer]
         setcart(newcart)
     }
+    // loading api
     useEffect(()=>{
 
         fetch("./dancer.JSON")
         .then(res => res.json())
         .then(data => Setdancer(data))
     },[])
+    // jsx sector
     return (
         <div>
             <div className="row ">

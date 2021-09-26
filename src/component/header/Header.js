@@ -4,8 +4,8 @@ import './header.css'
 const Header = () => {
     return (
         <div className ="header-parent">
-            <h1>world top dancer team</h1>
-            <h3>total-income:$90000</h3>
+            <h1 className ="">world top <span className ="title">dancer</span> team</h1>
+            <h3>total-income:$900000</h3>
         </div>
     );
 };

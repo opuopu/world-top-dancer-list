@@ -36,6 +36,72 @@
          "gender": "male",
          "height": "5.8 inc",
          "img": "https://i2.wp.com/bechuzi.com/wp-content/uploads/2020/09/Allu-Arjun.jpg?resize=298%2C300&ssl=1"
+    },
+    {
+
+        "name":"Madhuri Dixit",
+        "key": "4",
+         "birthDate": "1 jan 1995",
+         "yearlyIncome": "25000",
+         "rank": "4",
+         "gender": "female",
+         "height": "5.2 inc",
+         "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Madhuri_Dixit_promoting_Total_Dhamaal_in_2019_%28cropped%29.jpg"
+    },
+    {
+
+        "name":"Rudolf Nureyev",
+        "key": "5",
+         "birthDate": "10 jan 1995",
+         "yearlyIncome": "30000",
+         "rank": "5",
+         "gender": "male",
+         "height": "5.7 inc",
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nureyev_9_Allan_Warren.jpg/733px-Nureyev_9_Allan_Warren.jpg"
+    },
+    {
+
+        "name":"Joaquín Cortés",
+        "key": "6",
+         "birthDate": "10 jan 1998",
+         "yearlyIncome": "35000",
+         "rank": "6",
+         "gender": "male",
+         "height": "5.10 inc",
+         "img": "https://phantom-elmundo.unidadeditorial.es/d5837dd8610cbe1cc2b0b6f303fe4d8d/crop/15x198/934x809/f/webp/assets/multimedia/imagenes/2020/12/11/16076904872752.jpg"
+    },
+    {
+
+        "name":"Joaquín Cortés",
+        "key": "7",
+         "birthDate": "10 feb 1998",
+         "yearlyIncome": "25000",
+         "rank": "7",
+         "gender": "female",
+         "height": "5.3 inc",
+         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ginger_Rogers_1941.jpg/475px-Ginger_Rogers_1941.jpg"
+    },
+    {
+
+        "name":"Fred Astaire",
+        "key": "8",
+         "birthDate": "10 mar 1998",
+         "yearlyIncome": "25000",
+         "rank": "8",
+         "gender": "male",
+         "height": "5.5 inc",
+         "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNDM5NDcyNjU0/fred-astaire-9190991-1-402.jpg"
+    },
+    {
+
+        "name":"Gregory Hines",
+        "key": "9",
+         "birthDate": "10 mar 1990",
+         "yearlyIncome": "20000",
+         "rank": "9",
+         "gender": "male",
+         "height": "5.10 inc",
+         "img": "https://tapdancers.files.wordpress.com/2012/03/gh0011.jpeg"
     }
 
 ]
