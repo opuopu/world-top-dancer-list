@@ -9,8 +9,12 @@ const Main = () => {
     // handle click
 
     const handleClick = dancer =>{
-        const newcart = [...cart,dancer]
-        setcart(newcart)
+        const checking = cart.find(e => e.key === dancer.key)
+        if(!checking){
+            const newcart = [...cart,dancer]
+            setcart(newcart)
+        }
+      
     }
     // loading api
     useEffect(()=>{
